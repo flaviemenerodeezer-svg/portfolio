@@ -1,0 +1,26 @@
+h1 {
+    font-size: 64px ;
+    color: beige
+}
+body {
+   text-align: center;
+   background-color: blueviolet;
+    color :blue
+}
+h1 {
+  color: green;
+  font-size: 32px;
+}
+
+h2, h3, h4 {
+  font-size: 28px;
+}
+body {
+  background: pink;
+  font-family: arial;
+  text-align: center;
+}
+
+h4, ul, ol {
+  text-align: left;
+}
